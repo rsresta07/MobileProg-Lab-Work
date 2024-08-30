@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Creating String Resources</string>
+    <string name="label_name">Name</string>
+    <string name="label_address">Address</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_address">Enter your address</string>
+    <string name="button_submit">Submit</string>
+    <string name="toast_message">Name: %1$s\nAddress: %2$s</string>
+</resources>
